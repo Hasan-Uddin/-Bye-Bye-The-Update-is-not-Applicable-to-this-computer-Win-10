@@ -13,4 +13,4 @@ wait for installation this may take long
 ![Screenshot (3)](https://user-images.githubusercontent.com/60354359/127325350-3138021e-9f75-44b7-8b09-112e2615f46d.png)
 
 
-
+How to Fix The Update is not Applicable to this computer Win 10 By ErrorXTech
