@@ -1,8 +1,8 @@
-# How to Fix The Update is not Applicable to this computer Win 10 By ErrorXTech
+# How to Fix The Update is not Applicable to this computer Win 10 By 
 
-Donload the bat file..
+Download the bat file..
 Drag and Drop the .msu update file on the bat file.
-wait for installation this may take long
+wait for installation this may take a long
 
 ![Screen-Recording-_7-28-2021-5-50-07-AM_](https://user-images.githubusercontent.com/60354359/127325081-4d8daed0-2a75-4961-83c6-9083d3f65b68.gif)
 
